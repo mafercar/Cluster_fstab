@@ -72,4 +72,4 @@ Comprobación www.escherixhialicoli.es HTML, .conf
 ![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/escheriachicolidns.png)
 Comprobación www.chip555.org HTML, .conf
 ![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/chipdns.png)
-```sadasdas```
+
