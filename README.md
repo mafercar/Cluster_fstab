@@ -14,4 +14,4 @@ El servidor DNS será RAID 0.
 Los Servidores web ftp será RAID 5.
 
 ```sadasdas```
-![alt]("https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/apacheconf.png")
+![alt](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/apacheconf.png)
