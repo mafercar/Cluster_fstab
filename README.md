@@ -13,9 +13,11 @@ Crear una máquina virtual con un entorno gráfico. Esta accede a los sitios web
 El servidor DNS será RAID 0.
 Los Servidores web ftp será RAID 5.
 ### Ejercicio 1:
-##Servidor DNS
+## Servidor DNS
 RAID 0
 ![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/particiones.PNG)
 Configuración router DNS /etc/network/interfaces
-![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/dns1.png)
+![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/dns1.PNG)
+Zonas - Archivos named.conf.local
+![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/dns2.PNG)
 ```sadasdas```
