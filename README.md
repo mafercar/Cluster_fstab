@@ -12,6 +12,8 @@ www web con información de Oracle.
 Crear una máquina virtual con un entorno gráfico. Esta accede a los sitios web.
 El servidor DNS será RAID 0.
 Los Servidores web ftp será RAID 5.
+### Ejercicio 1:
 
+
+![Raid 0](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/particione.PNG)
 ```sadasdas```
-![alt](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/apacheconf.png)
