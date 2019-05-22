@@ -41,10 +41,31 @@ Comprobación sitioa.com HTML, .conf
 ![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/web5.PNG)
 Comprobación sitiob.net HTML, .conf
 ![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/web6.PNG)
-![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/web7.PNG)
-![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/web8.PNG)
+![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/web7.png)
+![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/web8.png)
 Comprobación sitioc.net HTML, .conf, comprobación
-![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/web9.PNG)
-![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/web10.PNG)
-![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/web11.PNG)
+![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/web9.png)
+![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/web10.png)
+![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/web11.png)
+# Apache
+## Creación de un servidor Apache
+Crear un servidor Apache con 4 virtual host:
+
+- www.gato.com -> mostrará la imagen de un gato.
+- www.mosquito.com -> mostrará la imagen de un mosquito tigre.
+- www.escherichiacoli.es -> mostrará la imagen de la bacteria escherichia coli. Sólo tendrá acceso  el usuario 'user01'.
+-www.chip555.org -> mostrará la imagen del chip 555. Sólo tendrán acceso los usuarios del fichero  de password creado.
+Crear una máquina con el servidor Apache y el servidor dns necesario. Crear otra máquina con un entorno gráfico para comprobar el correcto funcionamiento.
+## Ejercicio 2:
+Zonas - named.conf.local
+![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/ejercicio2.png)
+Archivo named.conf.options
+![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/ejercicio22.png)
+Comprobación www.gato.com zona, HTML, .conf
+![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/ejercicio23.png)
+![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/ejercicio24.png)
+
+Comprobación www.mosquito.com HTML, .conf
+![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/mosquitodns.png)
+![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/ejercicio27.png)
 ```sadasdas```
