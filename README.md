@@ -14,4 +14,4 @@ El servidor DNS será RAID 0.
 Los Servidores web ftp será RAID 5.
 
 ```sadasdas```
-(! dns.png)
+![alt]("apacheconf.png")
