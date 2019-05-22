@@ -68,4 +68,8 @@ Comprobación www.gato.com zona, HTML, .conf
 Comprobación www.mosquito.com HTML, .conf
 ![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/mosquitodns.png)
 ![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/ejercicio27.png)
+Comprobación www.escherixhialicoli.es HTML, .conf
+![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/escheriachicolidns.png)
+Comprobación www.chip555.org HTML, .conf
+![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/chipdns.png)
 ```sadasdas```
