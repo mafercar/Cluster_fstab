@@ -13,3 +13,5 @@ Crear una máquina virtual con un entorno gráfico. Esta accede a los sitios web
 El servidor DNS será RAID 0.
 Los Servidores web ftp será RAID 5.
 
+```sadasdas```
+(! dns.png)
