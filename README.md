@@ -15,5 +15,5 @@ Los Servidores web ftp será RAID 5.
 ### Ejercicio 1:
 
 
-![Raid 0](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/particione.PNG)
+![](https://github.com/mafercar/DNS-y-Apache-en-linux/blob/master/particiones.PNG)
 ```sadasdas```
